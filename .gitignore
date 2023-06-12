@@ -34,3 +34,9 @@ google-services.json
 
 # Sistema de ficheros appel
 .DS_Store
+
+# ficheros finales
+bin/
+
+# Documentación intermedia
+docs/

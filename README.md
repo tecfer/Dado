@@ -1,4 +1,4 @@
-# Dado
+# Dado -> Tira El Dado
 ## Aplicación para tirar los dados en tu dispositivo android
 >funcionamiento clásico, 
  * pulsas y genera un número aleatorio entre 1 y 6.
